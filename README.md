@@ -1,1 +1,6 @@
 # Programming Projects
+A collection of programs I have created to supplement my Self-Learning, Work Experience and participation during Hackathons.
+
+* To view my finalized StarHacks Hackathon Project, click [here.](https://starhacks.beauxconsunji.repl.co/)
+* To view my girls.exe Hack The Gap Project, click [here.](https://pcos.beauxconsunji.repl.co/)
+* To view a short demo of my Unity Projects, please click the link in each respective folder. 
