@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08766fc5c09e3544f987eedb4c27bd54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - theRB: {instanceID: 0}
+  - viewCam: {instanceID: 0}
+  - bulletImpact: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
